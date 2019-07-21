@@ -1,4 +1,9 @@
-p {
+.odin {
     font-size: 13px;
     border: 2px solid black;
+}
+.second {
+    font-size: 20px;
+    text-decoration: underline;
+    color: green;
 }
